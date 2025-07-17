@@ -33,6 +33,7 @@ console.log(booleanLoggedIn);
 
 1=>true 0=>false
 ""=>false "abc"=>true;
+
 let someNumber = 33;
 let stringNumber = Number(someNumber);
 
